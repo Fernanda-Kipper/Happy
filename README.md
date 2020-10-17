@@ -2,7 +2,7 @@
 Esse projeto foi desenvolvido durante a semana Next Level Week 3, da Rocketseat. Ele tem o objetivo de mediar o contato entre pessoas dispostas a espalhar carinho e casas de acolhimento infantils, facilitando a busca pelos orfanatos na cidade onde o usuário pode ir passar um tempo com as crianças.
 
 ## :information_source: Como funciona:
-Na versão 1.0 ao entrar no site, o usuário se depara com a tela principal, e se continuar será redirecionado para o mapa onde poderá visualizar as casas de acolhimento ou cadastrar uma nova.
+Na versão 1.0 ao entrar na aplicação, o usuário poderá visualizar as casas de acolhimento cadastradas em sua cidade, podendo optar por abrir mais detalhes de um orfanato em específico ou cadastrar um novo.
 
 ## :warning: Funcionalidade Adicional
 Adicionei no meu projeto uma funcionalidade que não estava presente na versão 1.0 proposta pela Rocketseat, esta funcionalidade sinaliza no mapa os orfanatos que estão abertos no exato momento em que o usário está acessando a aplicação. Disponível apenas na versão web.
