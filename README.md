@@ -5,7 +5,9 @@ Esse projeto foi desenvolvido durante a semana Next Level Week 3, da Rocketseat.
 Na versão 1.0 ao entrar no site, o usuário se depara com a tela principal, e se continuar será redirecionado para o mapa onde poderá visualizar as casas de acolhimento ou cadastrar uma nova.
 
 ## :warning: Funcionalidade Adicional
-Adicionei no meu projeto uma funcionalidade que não estava presente na versão 1.0 proposta pela Rocketseat, está funcionalidade sinaliza no mapa os orfanatos que estão abertos no exato momento em que o usário está acessando a aplicação. Disponível apenas na versão web.
+Adicionei no meu projeto uma funcionalidade que não estava presente na versão 1.0 proposta pela Rocketseat, esta funcionalidade sinaliza no mapa os orfanatos que estão abertos no exato momento em que o usário está acessando a aplicação. Disponível apenas na versão web.
+
+<img src="https://introduceti.com.br/blog/wp-content/uploads/2019/04/image.png" width="60%">
 
 ## :warning: Tecnologias Utilizadas
 Durante o curso foram utilizadas diversas tecnologias que auxíliariam na finalização do projeto. As quais são:
