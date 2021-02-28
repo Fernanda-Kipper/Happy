@@ -1,4 +1,4 @@
-# Happy-NLW
+# Happy
 Esse projeto foi desenvolvido durante a semana Next Level Week 3, da Rocketseat. Ele tem o objetivo de mediar o contato entre pessoas dispostas a espalhar carinho e casas de acolhimento infantils, facilitando a busca pelos orfanatos na cidade onde o usuário pode ir passar um tempo com as crianças.
 
 ## :information_source: Como funciona:
